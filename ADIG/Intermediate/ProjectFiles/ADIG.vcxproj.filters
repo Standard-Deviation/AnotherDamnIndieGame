@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ADIG.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{496FBCE2-CECB-41C9-AA96-E4BBB1089FCD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ADIG.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ADIGEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{54BA23C8-BE97-4ECF-841D-5DDEE17355EE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ADIG">
+			<UniqueIdentifier>{7432A8C0-86FC-43FD-9D8C-7DCD3F8DABAB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ADIG\ADIG.Build.cs">
+			<Filter>Source\ADIG</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ADIG\ADIG.cpp">
+			<Filter>Source\ADIG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ADIG\ADIG.h">
+			<Filter>Source\ADIG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ADIG\ADIGGameMode.cpp">
+			<Filter>Source\ADIG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ADIG\ADIGGameMode.h">
+			<Filter>Source\ADIG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ADIG\ADIGPawn.cpp">
+			<Filter>Source\ADIG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ADIG\ADIGPawn.h">
+			<Filter>Source\ADIG</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

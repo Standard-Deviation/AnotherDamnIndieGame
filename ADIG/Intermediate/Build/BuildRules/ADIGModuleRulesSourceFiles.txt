@@ -1,0 +1,3 @@
+C:\Users\blakesplay\Documents\GitHub\AnotherDamnIndieGame\ADIG\Source\ADIG\ADIG.Build.cs
+C:\Users\blakesplay\Documents\GitHub\AnotherDamnIndieGame\ADIG\Source\ADIG.Target.cs
+C:\Users\blakesplay\Documents\GitHub\AnotherDamnIndieGame\ADIG\Source\ADIGEditor.Target.cs
